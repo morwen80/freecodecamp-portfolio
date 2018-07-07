@@ -1,0 +1,30 @@
+body {
+      position: relative;
+  }
+
+  #section1 {padding-top:30px;height:auto;color: #fff; background-color: #673ab7;}
+  #section2 {padding-top:50px;height:auto;color: #fff; background-color: grey;}
+  #section3 {padding-top:50px; padding-bottom: 10px; height:auto;color: #fff; background-color: #ff9800;}
+
+#profile {padding-bottom: 10px;}
+
+#social a {font-size: 25px;
+color: #fff;
+padding-top: 40px;
+letter-spacing: 8px;}
+
+#name, #portfolio, #contact {font-family: 'Pacifico', cursive;
+color:#1a75ff;
+  font-size: 50px;
+padding-bottom: 20px;}
+
+#about, #portf-desc, #contact-desc {font-size: 25px;}
+
+.thumbnail img {
+    height:250px;
+    width:100%;
+}
+
+.img-fluid {
+  max-width: 600px;
+  height: auto;}
